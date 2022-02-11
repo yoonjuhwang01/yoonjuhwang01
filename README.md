@@ -1,4 +1,4 @@
-### Hi there, I'm Yoonju Hwang 👋 
+### Hi there, I'm Yoonju Hwang <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/hi.gif" width="40px"/>  
 
 [![Linkedin Badge](https://img.shields.io/badge/-Yoonju-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yhwang95/) [![Mail Badge](https://img.shields.io/badge/-Yoonju-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:yoonju.hwang95@gmail.com)
 
