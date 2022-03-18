@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Yoonju-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yhwang95/) [![Mail Badge](https://img.shields.io/badge/-Yoonju-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:yoonju.hwang95@gmail.com)
 
 - 🔭 I’m currently working on developing website
-- 🌱 I’m currently learning everything
+- 🌱 I’m currently learning WEB3.0
 - 👯 I’m looking to collaborate on web applications
 - 📫 How to reach me: yoonju.hwang95@gmail.com
 - ⚡ Fun fact: I love to eat!
