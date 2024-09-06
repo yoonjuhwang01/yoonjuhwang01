@@ -29,5 +29,5 @@
 
 
 **Reach Out**
-- :paperclip: [My Resume/CV](https://drive.google.com/file/d/1PAkHLwjhw2QBoZHI7pyOftELUX99ZJhE/view?usp=sharing)
+- :paperclip: [My Resume/CV](https://drive.google.com/file/d/1uEapNi-mAiv2nnSz8w35e2a8UWfaqSWT/view?usp=sharing)
 - :email: yoonju.hwang95@gmail.com
